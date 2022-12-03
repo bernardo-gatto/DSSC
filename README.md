@@ -13,3 +13,4 @@ If you find this project useful for your research, please use the following BibT
 
 Discriminative Singular Spectrum Classifier with Applications on Bioacoustic Signal Recognition
 
+https://doi.org/10.1016/j.dsp.2022.103858
